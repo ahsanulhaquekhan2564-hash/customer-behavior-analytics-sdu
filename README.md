@@ -16,7 +16,7 @@ Team project analyzing customer behavior data and translating findings into busi
 ![Dashboard page 1](Customer_Behavior_Analytics_Power%20BI_01.jpg)
 ![Dashboard page 2](Customer_Behavior_Analytics_Power%20BI_02.jpg)
 
-## My contributions (Ahsanul Haque Khan)
+## Contributions summary
 I completed the project sections from **3. Correlation Matrix analysis** through **5.1.3 Optional: Regression on PCA Components vs. Original Components**, including:
 - Correlation matrix analysis + interpretation
 - PCA analysis + interpretation
